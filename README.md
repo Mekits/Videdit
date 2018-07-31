@@ -1,6 +1,7 @@
 With Videdit, you can edit your videos in a lot of ways and make them more awesome and different.
 
-=== SIMPLE AND EASY TO USE === 
+=== SIMPLE AND EASY TO USE ===
+
 Choose the video from Photo, Select a way of editing, handle it and save or share it.
 
 === RICH FEATURES === 
