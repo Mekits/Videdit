@@ -1,8 +1,10 @@
+Contact Info: mekits@163.com
+-----------------------------------
+
 With Videdit, you can edit your videos in a lot of ways and make them more awesome and different.
 
 === SIMPLE AND EASY TO USE ===
-
-Choose the video from Photo, Select a way of editing, handle it and save or share it.
++ Choose the video from Photo, Select a way of editing, handle it and save or share it.
 
 === RICH FEATURES === 
 + Trim unwanted parts of the video
@@ -33,5 +35,4 @@ Choose the video from Photo, Select a way of editing, handle it and save or shar
 + May save videos to your camera roll
 + Easily share videos with friends
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Contact Info: mekits@163.com
+
