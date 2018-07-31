@@ -33,5 +33,4 @@ Choose the video from Photo, Select a way of editing, handle it and save or shar
 + Easily share videos with friends
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Contact Info:
-Email: mekits@163.com
+Contact Info: mekits@163.com
