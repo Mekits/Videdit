@@ -26,6 +26,7 @@ With Videdit, you can edit your videos in a lot of ways and make them more aweso
 + Add borders to video
 + Add stickers to video
 + Support collage of videos with rich background texture images
+
 ...
 
 === QUICK RESPONSE ===  
