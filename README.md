@@ -28,6 +28,7 @@ With Videdit, you can edit your videos in a lot of ways and make them more aweso
 + Support collage of videos with rich background textures
 + Paint on the video: select color and width of brush, draw, undo, redo, erase
 + BlingBling for the video and make them full of brilliance: automatically detect highlights, add spot and star streaks and flexibly adjust their quantity, rotating speed and strength
+
 ...
 
 === QUICK RESPONSE === 
