@@ -28,7 +28,8 @@ With Videdit, you can edit your videos in a lot of ways and make them more aweso
 + Support collage of videos with rich background textures
 + Paint on the video: select color and width of brush, draw, undo, redo, erase
 + BlingBling for the video and make them full of brilliance: automatically detect highlights, add spot and star streaks and flexibly adjust their quantity, rotating speed and strength
-
++ Add particle effects for the videos: over 100 particle effects templates and rich particle texture images, 
+flexible adjustment of various parameters of particle emission. Use your imagination to add surprises to your videos.
 ...
 
 === QUICK RESPONSE === 
