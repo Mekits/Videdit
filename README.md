@@ -17,6 +17,7 @@ With Videdit, you can edit your videos in a lot of ways and make them more aweso
 + Dub for the video and support to adjust the volume
 + Add special audios into the video with over 200 sound effects
 + Adjust the playback speed of the video
++ Replay a selected segment of the video and flexibly set count of loop and the the speed of playing
 + Let the video playback in reverse order
 + Zoom in or out the video
 + Rotate or flip the video and support 3D rotation at any angle
@@ -30,6 +31,11 @@ With Videdit, you can edit your videos in a lot of ways and make them more aweso
 + BlingBling for the video and make them full of brilliance: automatically detect highlights, add spot and star streaks and flexibly adjust their quantity, rotating speed and strength
 + Add particle effects for the videos: over 100 particle effects templates and rich particle texture images, 
 flexible adjustment of various parameters of particle emission. Use your imagination to add surprises to your videos.
++ Add magnifier for video: flexibility to select the area to be enlarged and adjust the magnification and display position of the magnifier
++ Distort video: provide a variety of distortion types
+and flexibility adjust twist radius, force and center position
++ Reflect video: provide a variety of reflection filters and flexibility adjust the boundary and center position of reflection
++ Blend videos: provide 20+ classic blend modes: darken, multiply, color burn, linear burn, lighten, color dodge, linear dodge, overlay, soft light, hard light, average, difference, exclusion and so on; flexibility adjust the opacity, size and position of the foreground; exchange the foreground and the background; make the blended area into a variety of shapes
 ...
 
 === QUICK RESPONSE === 
