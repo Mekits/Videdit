@@ -14,6 +14,7 @@ With Videdit, you can edit your videos in a lot of ways and make them more aweso
 + Add some text into the video with rich text effects
 + Adjust the color and effect of the video with dozens of filters
 + Take a picture from the video
++ Tuner by which to adjust the pitch and volume of the sound within the video, distort the sound, and add reverb to the sound make the sound have some special effects
 + Dub for the video and support to adjust the volume
 + Add special audios into the video with over 200 sound effects
 + Adjust the playback speed of the video
@@ -33,9 +34,11 @@ With Videdit, you can edit your videos in a lot of ways and make them more aweso
 flexible adjustment of various parameters of particle emission. Use your imagination to add surprises to your videos.
 + Add magnifier for video: flexibility to select the area to be enlarged and adjust the magnification and display position of the magnifier
 + Distort video: provide a variety of distortion types
-and flexibility adjust twist radius, force and center position
-+ Reflect video: provide a variety of reflection filters and flexibility adjust the boundary and center position of reflection
-+ Blend videos: provide 20+ classic blend modes: darken, multiply, color burn, linear burn, lighten, color dodge, linear dodge, overlay, soft light, hard light, average, difference, exclusion and so on; flexibility adjust the opacity, size and position of the foreground; exchange the foreground and the background; make the blended area into a variety of shapes
+and flexibly adjust twist radius, force and center position
++ Reflect video: provide a variety of reflection filters and flexibly adjust the boundary and center position of reflection
++ Blend videos: provide 20+ classic blend modes: darken, multiply, color burn, linear burn, lighten, color dodge, linear dodge, overlay, soft light, hard light, average, difference, exclusion and so on; flexibly adjust the opacity, size and position of the foreground; exchange the foreground and the background; make the blended area into a variety of shapes
++ Erase video: you can flexibly select the erased area (eg. the watermark) by drawing directly on the video to erase the content on the fixed area, and the effect is better for the erased area with simple background color
++ Chromakey video: chromakey by which a block of a particular color (often blue or green) in a video image can be replaced by another color; tap the video image or the color-bar to select the replaced color; provide rich target color scheme: pure color, gradient color, texture image, photo or video; flexibly adjust the threshold sensitivity controls how similar pixels need to be colored to be replaced and the degree of smoothing controls how gradually similar colors are replaced in the image
 ...
 
 === QUICK RESPONSE === 
